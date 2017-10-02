@@ -1,1 +1,2 @@
-I am timmy
+I am timmy.
+I was once a great coder.
